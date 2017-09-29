@@ -55,7 +55,8 @@
           "[PHP](#php)",
           "[Python](#python)",
           "[R](#r)",
-          "[Ruby](#ruby)"
+          "[Ruby](#ruby)",
+          "[Shell](#shell)"
         ]
       },
       {
@@ -1047,6 +1048,33 @@
               "[@martineriksson](https://github.com/martineriksson)/[**scrive-petitions**](https://github.com/martineriksson/scrive-petitions)",
               "Scrive Petitions (24HBC 2011)",
               "[:arrow_upper_right:](http://scrive-petitions.heroku.com/)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Shell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "9",
+              "[@brandleesee](https://github.com/brandleesee)/[**ePSXe64Ubuntu**](https://github.com/brandleesee/ePSXe64Ubuntu)",
+              "Install ePSXe Linux (x64) & shaders using BIOS HLE  and Core Plugins on Ubuntu (x64) and derivatives.",
+              ""
+            ],
+            [
+              "2",
+              "[@t01wtb16](https://github.com/t01wtb16)/[**rhel7**](https://github.com/t01wtb16/rhel7)",
+              "A collection of scripts for RHEL7",
+              ""
             ]
           ]
         }
