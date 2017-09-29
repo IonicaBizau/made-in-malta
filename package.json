@@ -48,7 +48,8 @@
       {
         "ul": [
           "[JavaScript](#javascript)",
-          "[Java](#java)"
+          "[Java](#java)",
+          "[C#](#c-1)"
         ]
       },
       {
@@ -496,6 +497,81 @@
               "2",
               "[@sganslandt](https://github.com/sganslandt)/[**healthcheck-watcher**](https://github.com/sganslandt/healthcheck-watcher)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C# #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "7",
+              "[@colinvella](https://github.com/colinvella)/[**tIDE**](https://github.com/colinvella/tIDE)",
+              "Tile IDE (tIDE) and xTile are an integrated solution for building tile-based games for Windows, Xbox 360 and Windows Phone 7 using Microsoft XNA 3.1 and 4.0 technology. This software is licensed under the Microsoft Public License (Ms-PL) open source agreement. Visit the project's website for more details: https://colinvella.github.io/tIDE/",
+              ""
+            ],
+            [
+              "6",
+              "[@cdemi](https://github.com/cdemi)/[**SimpleSqlBulkCopy**](https://github.com/cdemi/SimpleSqlBulkCopy)",
+              "Lets you efficiently bulk load a SQL Server table with data from a Typed List. This uses System.Data.SqlClient.SqlBulkCopy and just wraps it for a more developer-friendly interface",
+              ""
+            ],
+            [
+              "4",
+              "[@davidbonnici1984](https://github.com/davidbonnici1984)/[**squatfinder**](https://github.com/davidbonnici1984/squatfinder)",
+              "Squatfinder is a simple and fast domain name permutation engine wrapper to detect similar domains caused by type squatting. (Still in progress)",
+              "[:arrow_upper_right:](http://www.squatfinder.io)"
+            ],
+            [
+              "4",
+              "[@Haedrian](https://github.com/Haedrian)/[**Divine-Right**](https://github.com/Haedrian/Divine-Right)",
+              "Repository for the Open Source RPG Divine Right",
+              ""
+            ],
+            [
+              "3",
+              "[@cdemi](https://github.com/cdemi)/[**CSharp-IP2Location**](https://github.com/cdemi/CSharp-IP2Location)",
+              "Gets ip2location.com Lite DB1 as a typed List",
+              ""
+            ],
+            [
+              "3",
+              "[@cdemi](https://github.com/cdemi)/[**PRTG-Redis-Sensor**](https://github.com/cdemi/PRTG-Redis-Sensor)",
+              "A Redis Sensor for PRTG",
+              "[:arrow_upper_right:](https://blog.cdemi.io/monitoring-redis-in-prtg)"
+            ],
+            [
+              "2",
+              "[@michaelcassar](https://github.com/michaelcassar)/[**ASP-Shopping-Cart-We…**](https://github.com/michaelcassar/ASP-Shopping-Cart-Website)",
+              "ASP.NET, C#, JQuery, ASMX",
+              ""
+            ],
+            [
+              "2",
+              "[@cdemi](https://github.com/cdemi)/[**QDeploy**](https://github.com/cdemi/QDeploy)",
+              "QDeploy (Quick and Dirty Deployment tool) is an application that helps you deploy applications to multiple remote servers.",
+              ""
+            ],
+            [
+              "2",
+              "[@cdemi](https://github.com/cdemi)/[**aed.org.mt**](https://github.com/cdemi/aed.org.mt)",
+              "A simple app to get people to see the location of AEDs in Malta",
+              "[:arrow_upper_right:](https://aed.org.mt/)"
+            ],
+            [
+              "2",
+              "[@cdemi](https://github.com/cdemi)/[**MultipleDatabaseScri…**](https://github.com/cdemi/MultipleDatabaseScriptExecutor)",
+              "This tool allows you to run SQL Queries across different MS SQL databases. It may be useful for cases where you need to run some upgrade scripts.",
               ""
             ]
           ]
