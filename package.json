@@ -49,7 +49,8 @@
         "ul": [
           "[JavaScript](#javascript)",
           "[Java](#java)",
-          "[C#](#c-1)"
+          "[C#](#c-1)",
+          "[C++](#c-2)"
         ]
       },
       {
@@ -572,6 +573,27 @@
               "2",
               "[@cdemi](https://github.com/cdemi)/[**MultipleDatabaseScri…**](https://github.com/cdemi/MultipleDatabaseScriptExecutor)",
               "This tool allows you to run SQL Queries across different MS SQL databases. It may be useful for cases where you need to run some upgrade scripts.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C++ #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "64",
+              "[@jpxue](https://github.com/jpxue)/[**Overwatch-Aim-Assist**](https://github.com/jpxue/Overwatch-Aim-Assist)",
+              "C++ Overwatch aim assist tool and triggerbot!",
               ""
             ]
           ]
