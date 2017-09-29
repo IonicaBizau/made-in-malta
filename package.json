@@ -54,7 +54,8 @@
           "[Go](#go)",
           "[PHP](#php)",
           "[Python](#python)",
-          "[R](#r)"
+          "[R](#r)",
+          "[Ruby](#ruby)"
         ]
       },
       {
@@ -797,6 +798,255 @@
               "[@gianmarcoalberti](https://github.com/gianmarcoalberti)/[**CAinterprTools_0.5**](https://github.com/gianmarcoalberti/CAinterprTools_0.5)",
               "ver.0.5",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Ruby #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "176",
+              "[@ripienaar](https://github.com/ripienaar)/[**graphite-graph-dsl**](https://github.com/ripienaar/graphite-graph-dsl)",
+              "A small DSL to describe graphite graphs",
+              "[:arrow_upper_right:](http://www.devco.net/)"
+            ],
+            [
+              "135",
+              "[@ripienaar](https://github.com/ripienaar)/[**mcollective-vagrant**](https://github.com/ripienaar/mcollective-vagrant)",
+              "Vagrant based MCollective testing framework",
+              ""
+            ],
+            [
+              "95",
+              "[@ripienaar](https://github.com/ripienaar)/[**puppet-reportprint**](https://github.com/ripienaar/puppet-reportprint)",
+              "CLI Viewer for Puppet Reports",
+              ""
+            ],
+            [
+              "80",
+              "[@ripienaar](https://github.com/ripienaar)/[**ruby-nagios**](https://github.com/ripienaar/ruby-nagios)",
+              "A CLI tool and Ruby library that parses your status log file and let you query it for information or create external commands",
+              "[:arrow_upper_right:](http://srt.ly/rnagios)"
+            ],
+            [
+              "77",
+              "[@ripienaar](https://github.com/ripienaar)/[**puppet-module-data**](https://github.com/ripienaar/puppet-module-data)",
+              "Hiera backend that stores data in a module",
+              ""
+            ],
+            [
+              "71",
+              "[@ripienaar](https://github.com/ripienaar)/[**mysql-dump-split**](https://github.com/ripienaar/mysql-dump-split)",
+              "Ruby script that splits a MySQL dump into a file per table.",
+              "[:arrow_upper_right:](http://www.devco.net/)"
+            ],
+            [
+              "56",
+              "[@ripienaar](https://github.com/ripienaar)/[**facter-facts**](https://github.com/ripienaar/facter-facts)",
+              "Facts for Puppet Labs Facter",
+              ""
+            ],
+            [
+              "55",
+              "[@ripienaar](https://github.com/ripienaar)/[**puppet-catalog-diff**](https://github.com/ripienaar/puppet-catalog-diff)",
+              "Tool to diff Puppet catalogs",
+              "[:arrow_upper_right:](http://www.devco.net/)"
+            ],
+            [
+              "49",
+              "[@ripienaar](https://github.com/ripienaar)/[**mcollective-server-p…**](https://github.com/ripienaar/mcollective-server-provisioner)",
+              "Fully automated provisioner for servers using MCollective",
+              "[:arrow_upper_right:](http://www.devco.net/)"
+            ],
+            [
+              "49",
+              "[@ripienaar](https://github.com/ripienaar)/[**mc-plugins**](https://github.com/ripienaar/mc-plugins)",
+              "Plugins for The Marionette Collective",
+              "[:arrow_upper_right:](http://mcollective-plugins.googlecode.com/)"
+            ],
+            [
+              "47",
+              "[@ripienaar](https://github.com/ripienaar)/[**monitoring-scripts**](https://github.com/ripienaar/monitoring-scripts)",
+              "Various monitoring related helpers",
+              "[:arrow_upper_right:](http://www.devco.net/)"
+            ],
+            [
+              "40",
+              "[@ripienaar](https://github.com/ripienaar)/[**angelia**](https://github.com/ripienaar/angelia)",
+              "Tool to facilitate the development of nagios notification methods using many different protocols and delivery systems",
+              "[:arrow_upper_right:](http://www.devco.net/)"
+            ],
+            [
+              "30",
+              "[@ripienaar](https://github.com/ripienaar)/[**ruby-pdns**](https://github.com/ripienaar/ruby-pdns)",
+              "Ruby PowerDNS Development Framework",
+              "[:arrow_upper_right:](http://code.google.com/p/ruby-pdns/)"
+            ],
+            [
+              "30",
+              "[@ripienaar](https://github.com/ripienaar)/[**mnrpes**](https://github.com/ripienaar/mnrpes)",
+              "MCollective NRPE Scaler",
+              ""
+            ],
+            [
+              "29",
+              "[@ripienaar](https://github.com/ripienaar)/[**ec2-boot-init**](https://github.com/ripienaar/ec2-boot-init)",
+              "Tool to help boot EC2 instances via user and meta data",
+              "[:arrow_upper_right:](http://www.devco.net/)"
+            ],
+            [
+              "23",
+              "[@mattbeedle](https://github.com/mattbeedle)/[**capsule_crm**](https://github.com/mattbeedle/capsule_crm)",
+              "Ruby CapsuleCRM API consumer",
+              ""
+            ],
+            [
+              "22",
+              "[@mattbeedle](https://github.com/mattbeedle)/[**usda-nutrient-databa…**](https://github.com/mattbeedle/usda-nutrient-database)",
+              "",
+              ""
+            ],
+            [
+              "22",
+              "[@ripienaar](https://github.com/ripienaar)/[**hiera-puppet-nodes**](https://github.com/ripienaar/hiera-puppet-nodes)",
+              "A YAML DSL for creating resources, classes etc using just Hiera",
+              ""
+            ],
+            [
+              "22",
+              "[@ripienaar](https://github.com/ripienaar)/[**puppet-parselocalcon…**](https://github.com/ripienaar/puppet-parselocalconfig)",
+              "Script to parse the Puppet local catalog and show the resources in it.",
+              "[:arrow_upper_right:](http://www.devco.net/)"
+            ],
+            [
+              "21",
+              "[@ripienaar](https://github.com/ripienaar)/[**puppet-mcollective-c…**](https://github.com/ripienaar/puppet-mcollective-client)",
+              "A Puppet type to write MCollective RPC jobs using Puppet Resource dependencies",
+              "[:arrow_upper_right:](http://www.devco.net/)"
+            ],
+            [
+              "21",
+              "[@ripienaar](https://github.com/ripienaar)/[**gwtf**](https://github.com/ripienaar/gwtf)",
+              "A Unix CLI focussed TODO manager with work logging features",
+              "[:arrow_upper_right:](http://srt.ly/gwtf)"
+            ],
+            [
+              "19",
+              "[@ripienaar](https://github.com/ripienaar)/[**mcollective-collecti…**](https://github.com/ripienaar/mcollective-collective-builder)",
+              "Generates any number of mcollective instances for development",
+              "[:arrow_upper_right:](http://www.devco.net/)"
+            ],
+            [
+              "19",
+              "[@ripienaar](https://github.com/ripienaar)/[**ruby-puppetdb**](https://github.com/ripienaar/ruby-puppetdb)",
+              "Play interface to PuppetDB",
+              ""
+            ],
+            [
+              "18",
+              "[@ripienaar](https://github.com/ripienaar)/[**puppet-extlookup**](https://github.com/ripienaar/puppet-extlookup)",
+              "Extlookup",
+              "[:arrow_upper_right:](http://www.devco.net/)"
+            ],
+            [
+              "15",
+              "[@ripienaar](https://github.com/ripienaar)/[**flashpolicyd**](https://github.com/ripienaar/flashpolicyd)",
+              "Multi threaded daemon for serving up XML needed by Adobe Flash 9 and later",
+              "[:arrow_upper_right:](http://code.google.com/p/flashpolicyd/)"
+            ],
+            [
+              "14",
+              "[@ripienaar](https://github.com/ripienaar)/[**mcollective-agent-de…**](https://github.com/ripienaar/mcollective-agent-debugger)",
+              "IRB Debugger for MCollective Agents",
+              "[:arrow_upper_right:](http://www.devco.net/)"
+            ],
+            [
+              "10",
+              "[@ripienaar](https://github.com/ripienaar)/[**ruby-ssl**](https://github.com/ripienaar/ruby-ssl)",
+              "Wrapper to help encrypt and decrypt data using Ruby and OpenSSL",
+              "[:arrow_upper_right:](http://www.devco.net/)"
+            ],
+            [
+              "10",
+              "[@ripienaar](https://github.com/ripienaar)/[**snipper**](https://github.com/ripienaar/snipper)",
+              "CLI orientated code pastebin",
+              ""
+            ],
+            [
+              "8",
+              "[@ripienaar](https://github.com/ripienaar)/[**sensu_bitbar**](https://github.com/ripienaar/sensu_bitbar)",
+              "BitBar Sensu status plugin ",
+              ""
+            ],
+            [
+              "7",
+              "[@mattbeedle](https://github.com/mattbeedle)/[**has_constant**](https://github.com/mattbeedle/has_constant)",
+              "Store values as enumerations for translation, etc",
+              "[:arrow_upper_right:](http://mattbeedle.com)"
+            ],
+            [
+              "7",
+              "[@ripienaar](https://github.com/ripienaar)/[**puppet_agent_mgr**](https://github.com/ripienaar/puppet_agent_mgr)",
+              "Puppet Agent Manager",
+              ""
+            ],
+            [
+              "7",
+              "[@ripienaar](https://github.com/ripienaar)/[**oldskool**](https://github.com/ripienaar/oldskool)",
+              "Searching didn't suck then",
+              "[:arrow_upper_right:](http://www.devco.net/)"
+            ],
+            [
+              "7",
+              "[@ripienaar](https://github.com/ripienaar)/[**stomp-irb**](https://github.com/ripienaar/stomp-irb)",
+              "Interactive Ruby shell for STOMP",
+              "[:arrow_upper_right:](http://www.devco.net/)"
+            ],
+            [
+              "3",
+              "[@mattbeedle](https://github.com/mattbeedle)/[**hexagonal**](https://github.com/mattbeedle/hexagonal)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@martineriksson](https://github.com/martineriksson)/[**jormungandr**](https://github.com/martineriksson/jormungandr)",
+              "A very small ORM named after a very large snake.",
+              ""
+            ],
+            [
+              "2",
+              "[@mattbeedle](https://github.com/mattbeedle)/[**templates**](https://github.com/mattbeedle/templates)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@mattbeedle](https://github.com/mattbeedle)/[**davinci**](https://github.com/mattbeedle/davinci)",
+              "",
+              "[:arrow_upper_right:](http://da.vin.ci)"
+            ],
+            [
+              "2",
+              "[@mattbeedle](https://github.com/mattbeedle)/[**heroku_feature_deplo…**](https://github.com/mattbeedle/heroku_feature_deployments)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@martineriksson](https://github.com/martineriksson)/[**scrive-petitions**](https://github.com/martineriksson/scrive-petitions)",
+              "Scrive Petitions (24HBC 2011)",
+              "[:arrow_upper_right:](http://scrive-petitions.heroku.com/)"
             ]
           ]
         }
