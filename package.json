@@ -47,7 +47,8 @@
       },
       {
         "ul": [
-          "[JavaScript](#javascript)"
+          "[JavaScript](#javascript)",
+          "[Java](#java)"
         ]
       },
       {
@@ -414,6 +415,87 @@
               "2",
               "[@AndreasPizsa](https://github.com/AndreasPizsa)/[**export-functions**](https://github.com/AndreasPizsa/export-functions)",
               "convenience function to export functions like `module.exports = exportFunctions([func1,func2,func3]);",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Java #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "14",
+              "[@vinit-ivar](https://github.com/vinit-ivar)/[**XDictionary**](https://github.com/vinit-ivar/XDictionary)",
+              "Xposed quick dictionary module",
+              ""
+            ],
+            [
+              "6",
+              "[@javacreed](https://github.com/javacreed)/[**java-fork-join-examp…**](https://github.com/javacreed/java-fork-join-example)",
+              "Java Creed - Java Fork Join Example",
+              "[:arrow_upper_right:](http://www.javacreed.com/java-fork-join-example/)"
+            ],
+            [
+              "5",
+              "[@gabrieldimech](https://github.com/gabrieldimech)/[**mule-jpa-demo**](https://github.com/gabrieldimech/mule-jpa-demo)",
+              "This is a demo app for using JPA inside Mule components",
+              ""
+            ],
+            [
+              "5",
+              "[@rrhvella](https://github.com/rrhvella)/[**l-system-music-gener…**](https://github.com/rrhvella/l-system-music-generator)",
+              "A music generator using context-sensitive non-deterministic L-systems. Written in Java.",
+              ""
+            ],
+            [
+              "4",
+              "[@javacreed](https://github.com/javacreed)/[**gson-typeadapter-exa…**](https://github.com/javacreed/gson-typeadapter-example)",
+              "Java Creed - Gson TypeAdapter Example",
+              ""
+            ],
+            [
+              "3",
+              "[@javacreed](https://github.com/javacreed)/[**take-a-screenshot-of…**](https://github.com/javacreed/take-a-screenshot-of-webpage)",
+              "Java Creed - Take a Screenshot of Webpage",
+              ""
+            ],
+            [
+              "3",
+              "[@javacreed](https://github.com/javacreed)/[**how-to-run-embedded-…**](https://github.com/javacreed/how-to-run-embedded-tomcat-with-maven)",
+              "Java Creed - How To Run Embedded Tomcat with Maven",
+              ""
+            ],
+            [
+              "2",
+              "[@emersonf](https://github.com/emersonf)/[**binary-diff**](https://github.com/emersonf/binary-diff)",
+              "A diff tool that compares local and remote binary files, specifically files on Amazon S3.",
+              ""
+            ],
+            [
+              "2",
+              "[@sganslandt](https://github.com/sganslandt)/[**throttle**](https://github.com/sganslandt/throttle)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@javacreed](https://github.com/javacreed)/[**compress-large-text-…**](https://github.com/javacreed/compress-large-text-data-in-table)",
+              "Compress Large Text Data in Table",
+              ""
+            ],
+            [
+              "2",
+              "[@sganslandt](https://github.com/sganslandt)/[**healthcheck-watcher**](https://github.com/sganslandt/healthcheck-watcher)",
+              "",
               ""
             ]
           ]
