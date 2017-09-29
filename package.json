@@ -39,5 +39,386 @@
   },
   "bugs": {
     "url": "https://github.com/IonicaBizau/made-in-malta/issues"
+  },
+  "blah": {
+    "installation": [
+      {
+        "h2": "Contents"
+      },
+      {
+        "ul": [
+          "[JavaScript](#javascript)"
+        ]
+      },
+      {
+        "h3": "JavaScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2497",
+              "[@jacoborus](https://github.com/jacoborus)/[**nanobar**](https://github.com/jacoborus/nanobar)",
+              "Very lightweight progress bars. No jQuery",
+              "[:arrow_upper_right:](http://nanobar.jacoborus.codes)"
+            ],
+            [
+              "313",
+              "[@darrenscerri](https://github.com/darrenscerri)/[**duplicate-package-ch…**](https://github.com/darrenscerri/duplicate-package-checker-webpack-plugin)",
+              "Webpack plugin that warns you when multiple versions of the same package exist in a build",
+              ""
+            ],
+            [
+              "162",
+              "[@wizgrav](https://github.com/wizgrav)/[**clubber**](https://github.com/wizgrav/clubber)",
+              "Application of music theory in audio reactive visualizations",
+              "[:arrow_upper_right:](http://wizgrav.github.io/clubber)"
+            ],
+            [
+              "97",
+              "[@jacoborus](https://github.com/jacoborus)/[**estilo**](https://github.com/jacoborus/estilo)",
+              "Create color schemes for vim, airline and lightline",
+              ""
+            ],
+            [
+              "63",
+              "[@jacoborus](https://github.com/jacoborus)/[**deep-json**](https://github.com/jacoborus/deep-json)",
+              "Load a tree of splitted JSON files and folders",
+              "[:arrow_upper_right:](http://deepjson.jacoborus.codes)"
+            ],
+            [
+              "61",
+              "[@AnatoliyGatt](https://github.com/AnatoliyGatt)/[**deep-freeze-node**](https://github.com/AnatoliyGatt/deep-freeze-node)",
+              "Recursively Object.freeze() objects.",
+              ""
+            ],
+            [
+              "51",
+              "[@wizgrav](https://github.com/wizgrav)/[**aframe-effects**](https://github.com/wizgrav/aframe-effects)",
+              "A VR Ready Post processing framework for Three.js and/or A-Frame",
+              "[:arrow_upper_right:](https://wizgrav.github.io/aframe-effects)"
+            ],
+            [
+              "50",
+              "[@jacoborus](https://github.com/jacoborus)/[**wiretree**](https://github.com/jacoborus/wiretree)",
+              "Dependency injection framework for Node.js",
+              "[:arrow_upper_right:](http://wiretree.jacoborus.codes)"
+            ],
+            [
+              "32",
+              "[@AnatoliyGatt](https://github.com/AnatoliyGatt)/[**timezonedb-node**](https://github.com/AnatoliyGatt/timezonedb-node)",
+              "An asynchronous client library for TimeZoneDB API.",
+              ""
+            ],
+            [
+              "32",
+              "[@jacoborus](https://github.com/jacoborus)/[**arbitrary-emitter**](https://github.com/jacoborus/arbitrary-emitter)",
+              "High performance event emitter for modern browsers (~450 bytes)",
+              ""
+            ],
+            [
+              "25",
+              "[@AnatoliyGatt](https://github.com/AnatoliyGatt)/[**validate-ip-node**](https://github.com/AnatoliyGatt/validate-ip-node)",
+              "Validate IPv4 and IPv6 addresses.",
+              ""
+            ],
+            [
+              "20",
+              "[@AnatoliyGatt](https://github.com/AnatoliyGatt)/[**is-brexit**](https://github.com/AnatoliyGatt/is-brexit)",
+              ":uk: Get a result of Brexit referendum :uk:",
+              ""
+            ],
+            [
+              "19",
+              "[@jacoborus](https://github.com/jacoborus)/[**curlymail**](https://github.com/jacoborus/curlymail)",
+              "Lightweight email sending with mustache templates support for messages",
+              "[:arrow_upper_right:](http://curlymail.jacoborus.codes)"
+            ],
+            [
+              "19",
+              "[@AndreasPizsa](https://github.com/AndreasPizsa)/[**grunt-update-json**](https://github.com/AndreasPizsa/grunt-update-json)",
+              "Grunt task that updates a JSON file with data from other JSON files. Handy for keeping Bower.json and component.json in sync with package.json.",
+              ""
+            ],
+            [
+              "17",
+              "[@AnatoliyGatt](https://github.com/AnatoliyGatt)/[**forismatic-node**](https://github.com/AnatoliyGatt/forismatic-node)",
+              "An asynchronous client library for Forismatic API.",
+              ""
+            ],
+            [
+              "16",
+              "[@AnatoliyGatt](https://github.com/AnatoliyGatt)/[**deep-trim-node**](https://github.com/AnatoliyGatt/deep-trim-node)",
+              "Recursively String.trim() object properties of type String.",
+              ""
+            ],
+            [
+              "13",
+              "[@wizgrav](https://github.com/wizgrav)/[**clubberize**](https://github.com/wizgrav/clubberize)",
+              "Enables the use of clubber tool modulators in javascript projects",
+              ""
+            ],
+            [
+              "10",
+              "[@alfaproject](https://github.com/alfaproject)/[**ng-iframe-resizer**](https://github.com/alfaproject/ng-iframe-resizer)",
+              "Angular directive wrapping http://davidjbradshaw.github.io/iframe-r… (keep same and cross domain iframes sized to their content with support for window/content resizing, in page links, nesting and multiple iframes)",
+              ""
+            ],
+            [
+              "10",
+              "[@wizgrav](https://github.com/wizgrav)/[**aframe-clubber**](https://github.com/wizgrav/aframe-clubber)",
+              "A-Frame component for music visualisations using the Clubber library",
+              "[:arrow_upper_right:](https://wizgrav.github.io/aframe-clubber/demo/)"
+            ],
+            [
+              "9",
+              "[@jacoborus](https://github.com/jacoborus)/[**safename**](https://github.com/jacoborus/safename)",
+              "Get safe file name from a given string",
+              ""
+            ],
+            [
+              "9",
+              "[@jacoborus](https://github.com/jacoborus)/[**nuts**](https://github.com/jacoborus/nuts)",
+              "New unified template system",
+              ""
+            ],
+            [
+              "8",
+              "[@AnatoliyGatt](https://github.com/AnatoliyGatt)/[**escape-json-node**](https://github.com/AnatoliyGatt/escape-json-node)",
+              "Escape nested double quotes and unescape apostrophes within JSON string.",
+              ""
+            ],
+            [
+              "8",
+              "[@AnatoliyGatt](https://github.com/AnatoliyGatt)/[**base64-coder-node**](https://github.com/AnatoliyGatt/base64-coder-node)",
+              "Base64 string encoder/decoder.",
+              ""
+            ],
+            [
+              "7",
+              "[@AndreasPizsa](https://github.com/AndreasPizsa)/[**ember-autofocus**](https://github.com/AndreasPizsa/ember-autofocus)",
+              "Automatically focus on an input field upon page load in Ember",
+              ""
+            ],
+            [
+              "6",
+              "[@pierreco](https://github.com/pierreco)/[**ReactNativeYoutube**](https://github.com/pierreco/ReactNativeYoutube)",
+              "Create an application iOS for your Youtube Channel with React Native and Google API V3",
+              ""
+            ],
+            [
+              "6",
+              "[@jacoborus](https://github.com/jacoborus)/[**boxes**](https://github.com/jacoborus/boxes)",
+              "Mutable state containers with time travelling for JavaScript apps",
+              ""
+            ],
+            [
+              "6",
+              "[@AnatoliyGatt](https://github.com/AnatoliyGatt)/[**quotzzy-node**](https://github.com/AnatoliyGatt/quotzzy-node)",
+              "An asynchronous client library for Quotzzy API.",
+              ""
+            ],
+            [
+              "6",
+              "[@leventebalogh](https://github.com/leventebalogh)/[**horka-swipebox**](https://github.com/leventebalogh/horka-swipebox)",
+              "Swipebox image viewer plugin for Meteor.",
+              "[:arrow_upper_right:](https://atmospherejs.com/horka/swipebox)"
+            ],
+            [
+              "5",
+              "[@jacoborus](https://github.com/jacoborus)/[**submitter**](https://github.com/jacoborus/submitter)",
+              "Automatically submitting forms with AJAX",
+              ""
+            ],
+            [
+              "5",
+              "[@AndreasPizsa](https://github.com/AndreasPizsa)/[**express-swagger-ui**](https://github.com/AndreasPizsa/express-swagger-ui)",
+              "Serve swagger-ui with express.js (without hacking node_modules/swagger-ui/dist/index.html)",
+              ""
+            ],
+            [
+              "5",
+              "[@AndreasPizsa](https://github.com/AndreasPizsa)/[**md5-jkmyers**](https://github.com/AndreasPizsa/md5-jkmyers)",
+              "Joseph K. Myers' high performance (in fact, the fastest) MD5 implementation for npm, Bower, Component, etc.",
+              ""
+            ],
+            [
+              "5",
+              "[@jackw](https://github.com/jackw)/[**eyeglass-image-dimen…**](https://github.com/jackw/eyeglass-image-dimensions)",
+              "An eyeglass module giving node-sass the same image dimension functionality found in ruby compass.",
+              ""
+            ],
+            [
+              "4",
+              "[@AnatoliyGatt](https://github.com/AnatoliyGatt)/[**base64-file-coder-no…**](https://github.com/AnatoliyGatt/base64-file-coder-node)",
+              "Base64 file encoder/decoder.",
+              ""
+            ],
+            [
+              "4",
+              "[@pietro909](https://github.com/pietro909)/[**interactive_3d_with_…**](https://github.com/pietro909/interactive_3d_with_webgl_and_three_js)",
+              "Exercises and tutorial for the NodeSchool event",
+              ""
+            ],
+            [
+              "4",
+              "[@intellix](https://github.com/intellix)/[**angular-validators**](https://github.com/intellix/angular-validators)",
+              "Additional validators for AngularJS",
+              ""
+            ],
+            [
+              "4",
+              "[@lostsource](https://github.com/lostsource)/[**backlight5**](https://github.com/lostsource/backlight5)",
+              "Adds backlight to a Video element using Canvas and CSS3",
+              ""
+            ],
+            [
+              "4",
+              "[@lostsource](https://github.com/lostsource)/[**SimpleRTCData**](https://github.com/lostsource/SimpleRTCData)",
+              "Browser-to-Browser Messaging Simplified",
+              ""
+            ],
+            [
+              "4",
+              "[@jacoborus](https://github.com/jacoborus)/[**updox**](https://github.com/jacoborus/updox)",
+              "Get markdown documentation from your javascript comments",
+              ""
+            ],
+            [
+              "4",
+              "[@jacoborus](https://github.com/jacoborus)/[**node-filesaver**](https://github.com/jacoborus/node-filesaver)",
+              "Stores files in folders easily with node.js",
+              ""
+            ],
+            [
+              "4",
+              "[@pietro909](https://github.com/pietro909)/[**elm-quickstart**](https://github.com/pietro909/elm-quickstart)",
+              "Elm, SASS, Gulp, synchronize your JS",
+              ""
+            ],
+            [
+              "4",
+              "[@jacoborus](https://github.com/jacoborus)/[**miniruler**](https://github.com/jacoborus/miniruler)",
+              "Manage roles in contexts",
+              ""
+            ],
+            [
+              "4",
+              "[@KPull](https://github.com/KPull)/[**eth-membership-token…**](https://github.com/KPull/eth-membership-tokens)",
+              "Contracts that track and allow membership into an organisation",
+              ""
+            ],
+            [
+              "3",
+              "[@jacoborus](https://github.com/jacoborus)/[**dotmail**](https://github.com/jacoborus/dotmail)",
+              "Send emails with templates.",
+              ""
+            ],
+            [
+              "3",
+              "[@maciejsmolinski](https://github.com/maciejsmolinski)/[**qrd.js**](https://github.com/maciejsmolinski/qrd.js)",
+              "Finds the shortest path between points in a matrix",
+              ""
+            ],
+            [
+              "3",
+              "[@maciejsmolinski](https://github.com/maciejsmolinski)/[**decoupled.js**](https://github.com/maciejsmolinski/decoupled.js)",
+              "JavaScript library that allows to easily separate business logic in your application from the View and Data-Access layers.",
+              ""
+            ],
+            [
+              "3",
+              "[@maciejsmolinski](https://github.com/maciejsmolinski)/[**js-spy**](https://github.com/maciejsmolinski/js-spy)",
+              "Very first draft of method that helps spy what properties of an object are being used",
+              ""
+            ],
+            [
+              "3",
+              "[@lostsource](https://github.com/lostsource)/[**JSHexGrid**](https://github.com/lostsource/JSHexGrid)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@AnatoliyGatt](https://github.com/AnatoliyGatt)/[**telize-node**](https://github.com/AnatoliyGatt/telize-node)",
+              "An asynchronous client library for Telize API.",
+              ""
+            ],
+            [
+              "2",
+              "[@AndreasPizsa](https://github.com/AndreasPizsa)/[**promise-spread**](https://github.com/AndreasPizsa/promise-spread)",
+              "spread() for native ES6 Promises",
+              ""
+            ],
+            [
+              "2",
+              "[@jacoborus](https://github.com/jacoborus)/[**express-nuts**](https://github.com/jacoborus/express-nuts)",
+              "Nuts template engine plugin for Expressjs 4",
+              ""
+            ],
+            [
+              "2",
+              "[@maciejsmolinski](https://github.com/maciejsmolinski)/[**IC.js**](https://github.com/maciejsmolinski/IC.js)",
+              "InterCity.js (IC.js) - express.js-based, modular and lightweight NodeJS framework/structure",
+              ""
+            ],
+            [
+              "2",
+              "[@maciejsmolinski](https://github.com/maciejsmolinski)/[**bookslist**](https://github.com/maciejsmolinski/bookslist)",
+              "A simple, responsive, fully JS-based (Node.js / Front-End / Database) mini project utilising modern browser APIs",
+              ""
+            ],
+            [
+              "2",
+              "[@AndreasPizsa](https://github.com/AndreasPizsa)/[**is-true-ish**](https://github.com/AndreasPizsa/is-true-ish)",
+              "Returns true if a string is tru-ish, that is, yes|y|true|t|on|1|ok",
+              ""
+            ],
+            [
+              "2",
+              "[@jacoborus](https://github.com/jacoborus)/[**jetkit**](https://github.com/jacoborus/jetkit)",
+              "Dynamic website generator :rocket:. Work in progress",
+              ""
+            ],
+            [
+              "2",
+              "[@jacoborus](https://github.com/jacoborus)/[**hardwire**](https://github.com/jacoborus/hardwire)",
+              "Structured and scalable node.js app container. Work in progress",
+              ""
+            ],
+            [
+              "2",
+              "[@stephenlautier](https://github.com/stephenlautier)/[**ng-command**](https://github.com/stephenlautier/ng-command)",
+              "Command Pattern for AngularJS",
+              ""
+            ],
+            [
+              "2",
+              "[@intellix](https://github.com/intellix)/[**is-billy-scottish**](https://github.com/intellix/is-billy-scottish)",
+              "JS lib to check for Billy's Scottishness",
+              ""
+            ],
+            [
+              "2",
+              "[@AnatoliyGatt](https://github.com/AnatoliyGatt)/[**url-base64-node**](https://github.com/AnatoliyGatt/url-base64-node)",
+              "Escape/Unescape URL characters within Base64 string.",
+              ""
+            ],
+            [
+              "2",
+              "[@AndreasPizsa](https://github.com/AndreasPizsa)/[**export-functions**](https://github.com/AndreasPizsa/export-functions)",
+              "convenience function to export functions like `module.exports = exportFunctions([func1,func2,func3]);",
+              ""
+            ]
+          ]
+        }
+      }
+    ]
   }
 }
