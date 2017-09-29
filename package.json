@@ -53,7 +53,8 @@
           "[C++](#c-2)",
           "[Go](#go)",
           "[PHP](#php)",
-          "[Python](#python)"
+          "[Python](#python)",
+          "[R](#r)"
         ]
       },
       {
@@ -762,6 +763,39 @@
               "2",
               "[@ugurengin](https://github.com/ugurengin)/[**redis-slave-check**](https://github.com/ugurengin/redis-slave-check)",
               "Redis Slave Connectivity Check",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "R #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3",
+              "[@gianmarcoalberti](https://github.com/gianmarcoalberti)/[**CAseriation**](https://github.com/gianmarcoalberti/CAseriation)",
+              "ver 0.1",
+              ""
+            ],
+            [
+              "3",
+              "[@gianmarcoalberti](https://github.com/gianmarcoalberti)/[**CAinterprTools**](https://github.com/gianmarcoalberti/CAinterprTools)",
+              "ver0.4",
+              ""
+            ],
+            [
+              "2",
+              "[@gianmarcoalberti](https://github.com/gianmarcoalberti)/[**CAinterprTools_0.5**](https://github.com/gianmarcoalberti/CAinterprTools_0.5)",
+              "ver.0.5",
               ""
             ]
           ]
