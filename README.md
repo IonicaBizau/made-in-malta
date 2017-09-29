@@ -6,13 +6,6 @@
 
 > 🇧🇦 A list of cool projects made in Malta.
 
-## :cloud: Installation
-
-```sh
-$ npm i --save made-in-malta
-```
-
-
 ## Contents
 
 
@@ -221,43 +214,6 @@ $ npm i --save made-in-malta
 --- | --- | --- | ---
 9 | [@brandleesee](https://github.com/brandleesee)/[**ePSXe64Ubuntu**](https://github.com/brandleesee/ePSXe64Ubuntu) | Install ePSXe Linux (x64) & shaders using BIOS HLE  and Core Plugins on Ubuntu (x64) and derivatives. |
 2 | [@t01wtb16](https://github.com/t01wtb16)/[**rhel7**](https://github.com/t01wtb16/rhel7) | A collection of scripts for RHEL7 |
-
-
-## :clipboard: Example
-
-
-
-```js
-const madeInMalta = require("made-in-malta");
-
-console.log(madeInMalta());
-```
-
-
-
-## :question: Get Help
-
-There are few ways to get help:
-
- 1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
- 2. For bug reports and feature requests, open issues. :bug:
- 3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
-
-
-## :memo: Documentation
-
-
-### `madeInMalta(a, b)`
-🇧🇦 A list of cool projects made in Malta.
-
-#### Params
-
-- **Number** `a`: Param descrpition.
-- **Number** `b`: Param descrpition.
-
-#### Return
-- **Number** Return description.
-
 
 
 ## :yum: How to contribute
