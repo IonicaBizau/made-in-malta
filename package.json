@@ -51,7 +51,8 @@
           "[Java](#java)",
           "[C#](#c-1)",
           "[C++](#c-2)",
-          "[Go](#go)"
+          "[Go](#go)",
+          "[PHP](#php)"
         ]
       },
       {
@@ -616,6 +617,81 @@
               "5",
               "[@alex-ant](https://github.com/alex-ant)/[**gomath**](https://github.com/alex-ant/gomath)",
               "Extra mathematical algorithms and data types for Golang",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "PHP #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "19",
+              "[@GabrielGil](https://github.com/GabrielGil)/[**TimThumb**](https://github.com/GabrielGil/TimThumb)",
+              "TimThumb is a simple, flexible, PHP script that resizes images.",
+              "[:arrow_upper_right:](https://packagist.org/packages/gabrielgil/timthumb)"
+            ],
+            [
+              "11",
+              "[@SteveAzz](https://github.com/SteveAzz)/[**uuid-lesson**](https://github.com/SteveAzz/uuid-lesson)",
+              "A lesson regarding uuids and how to integrate them into the Laravel framework.",
+              ""
+            ],
+            [
+              "9",
+              "[@WPWhiteSecurity](https://github.com/WPWhiteSecurity)/[**WP-Security-Audit-Lo…**](https://github.com/WPWhiteSecurity/WP-Security-Audit-Log)",
+              "Similar to the Windows Event Log or Syslog on Unix / Linux systems, WP Security Audit Log is a WordPress security plugin that logs all type of activity happening on your WordPress blog or website or WordPress Multisite network installation.",
+              "[:arrow_upper_right:](http://www.wpwhitesecurity.com/wordpress-security-plugins/wp-security-audit-log/)"
+            ],
+            [
+              "9",
+              "[@SteveAzz](https://github.com/SteveAzz)/[**laravel-docker**](https://github.com/SteveAzz/laravel-docker)",
+              "Docker Containers for simple Laravel development.",
+              ""
+            ],
+            [
+              "5",
+              "[@kjellberg](https://github.com/kjellberg)/[**laravel-jvzoo**](https://github.com/kjellberg/laravel-jvzoo)",
+              "JVZoo IPN event listeners for Laravel 5",
+              "[:arrow_upper_right:](https://www.rasmuskjellberg.se)"
+            ],
+            [
+              "4",
+              "[@zoilomora](https://github.com/zoilomora)/[**laravel-msaccess**](https://github.com/zoilomora/laravel-msaccess)",
+              "Laravel ORM for Microsoft Access DB",
+              ""
+            ],
+            [
+              "3",
+              "[@jonmifsud](https://github.com/jonmifsud)/[**datasourcefield**](https://github.com/jonmifsud/datasourcefield)",
+              "Symphony Field - to relate Datasources to entries, so when linked the datasources are automatically attached.",
+              ""
+            ],
+            [
+              "3",
+              "[@michaelstivala](https://github.com/michaelstivala)/[**stalko-share**](https://github.com/michaelstivala/stalko-share)",
+              "A mini website to promote the title track of Stalko's upcoming album \"A Long Wave Goodbye\"",
+              ""
+            ],
+            [
+              "3",
+              "[@GabrielGil](https://github.com/GabrielGil)/[**bitbucket-issue-mana…**](https://github.com/GabrielGil/bitbucket-issue-manager)",
+              "Wordpress plugin to manage issues from a BitBucket project",
+              "[:arrow_upper_right:](http://wordpress.org/plugins/bitbucket-issue-manager)"
+            ],
+            [
+              "2",
+              "[@pashadude](https://github.com/pashadude)/[**nogoodgamez**](https://github.com/pashadude/nogoodgamez)",
+              "machine learning - based game recommender",
               ""
             ]
           ]
