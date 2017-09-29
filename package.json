@@ -50,7 +50,8 @@
           "[JavaScript](#javascript)",
           "[Java](#java)",
           "[C#](#c-1)",
-          "[C++](#c-2)"
+          "[C++](#c-2)",
+          "[Go](#go)"
         ]
       },
       {
@@ -594,6 +595,27 @@
               "64",
               "[@jpxue](https://github.com/jpxue)/[**Overwatch-Aim-Assist**](https://github.com/jpxue/Overwatch-Aim-Assist)",
               "C++ Overwatch aim assist tool and triggerbot!",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Go #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "5",
+              "[@alex-ant](https://github.com/alex-ant)/[**gomath**](https://github.com/alex-ant/gomath)",
+              "Extra mathematical algorithms and data types for Golang",
               ""
             ]
           ]
