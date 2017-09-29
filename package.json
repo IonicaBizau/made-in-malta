@@ -52,7 +52,8 @@
           "[C#](#c-1)",
           "[C++](#c-2)",
           "[Go](#go)",
-          "[PHP](#php)"
+          "[PHP](#php)",
+          "[Python](#python)"
         ]
       },
       {
@@ -692,6 +693,75 @@
               "2",
               "[@pashadude](https://github.com/pashadude)/[**nogoodgamez**](https://github.com/pashadude/nogoodgamez)",
               "machine learning - based game recommender",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Python #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "33",
+              "[@Evilcry](https://github.com/Evilcry)/[**PythonScripts**](https://github.com/Evilcry/PythonScripts)",
+              "Collection of my Python Scripts",
+              "[:arrow_upper_right:](http://evilcodecave.blogspot.com)"
+            ],
+            [
+              "21",
+              "[@dottedmag](https://github.com/dottedmag)/[**archmage**](https://github.com/dottedmag/archmage)",
+              "A reader and decompiler for files in the CHM format",
+              ""
+            ],
+            [
+              "8",
+              "[@paccator](https://github.com/paccator)/[**GotoRecent**](https://github.com/paccator/GotoRecent)",
+              "Sublime Text 2 plugin that adds a panel to reopen recently closed files",
+              ""
+            ],
+            [
+              "6",
+              "[@purrcat259](https://github.com/purrcat259)/[**sockbot**](https://github.com/purrcat259/sockbot)",
+              "A reddit bot which checks for mentions of socks in the Elite: Dangerous subreddit and messages /u/tfaddy",
+              ""
+            ],
+            [
+              "6",
+              "[@asfaltboy](https://github.com/asfaltboy)/[**SublimeTestPlier**](https://github.com/asfaltboy/SublimeTestPlier)",
+              "run python tests quickly from within a project",
+              ""
+            ],
+            [
+              "5",
+              "[@Evilcry](https://github.com/Evilcry)/[**malware-crawler**](https://github.com/Evilcry/malware-crawler)",
+              "Automatically exported from code.google.com/p/malware-crawler",
+              ""
+            ],
+            [
+              "4",
+              "[@oscarfroberg](https://github.com/oscarfroberg)/[**irssi-notify**](https://github.com/oscarfroberg/irssi-notify)",
+              "Ubuntu notifications for Irssi",
+              ""
+            ],
+            [
+              "2",
+              "[@oscarfroberg](https://github.com/oscarfroberg)/[**browserid-webpy**](https://github.com/oscarfroberg/browserid-webpy)",
+              "Simple implementation of BrowserID with web.py",
+              ""
+            ],
+            [
+              "2",
+              "[@ugurengin](https://github.com/ugurengin)/[**redis-slave-check**](https://github.com/ugurengin/redis-slave-check)",
+              "Redis Slave Connectivity Check",
               ""
             ]
           ]
