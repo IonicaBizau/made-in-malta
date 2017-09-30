@@ -4,7 +4,7 @@
 
  [![Support me on Patreon][badge_patreon]][patreon] [![Buy me a book][badge_amazon]][amazon] [![PayPal][badge_paypal_donate]][paypal-donations] [![Version](https://img.shields.io/npm/v/made-in-malta.svg)](https://www.npmjs.com/package/made-in-malta) [![Downloads](https://img.shields.io/npm/dt/made-in-malta.svg)](https://www.npmjs.com/package/made-in-malta)
 
-> 🇧🇦 A list of cool projects made in Malta.
+> 🇲🇹  A list of cool projects made in Malta.
 
 ## Contents
 
